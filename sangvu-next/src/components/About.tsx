@@ -67,7 +67,7 @@ const About = () => {
             <div className="relative">
               <div className="w-80 h-80 mx-auto rounded-full overflow-hidden shadow-2xl">
                 <img
-                  src="https://scontent.fsgn5-15.fna.fbcdn.net/v/t39.30808-6/490225885_2205933069863157_8448360811899039589_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=46KBbvsJ018Q7kNvwF-bhp1&_nc_oc=AdkA6MdW9n3uHMSipk-DiEBAFq-3cFFoP1qOO0O3kHxM3O0ouD18B5Zt2NmAVsXoLt-J8aHMaICq4iA0vgRMJBF0&_nc_zt=23&_nc_ht=scontent.fsgn5-15.fna&_nc_gid=rbcDwPSdNFVLAIUcZ74ybg&oh=00_AfKwL8e7kmjTOza226mHm7c2b2vpMenMVPV6omD-ZD0ylQ&oe=684460B9"
+                  src="https://scontent.fsgn5-9.fna.fbcdn.net/v/t39.30808-6/481445383_1900987197305362_6051884638233626418_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=Mun22nc5jq8Q7kNvwEioCbg&_nc_oc=AdkGT6AcsTdVx1wONBNOlUKc99R8Hii-8tjoO1U6utd1DqhYvLQ5Kn4GgSA9LPihK1PJ973FYBg8uosg49cguLyQ&_nc_zt=23&_nc_ht=scontent.fsgn5-9.fna&_nc_gid=XNEEqNynLfwuI0XTmyIyIQ&oh=00_AfIGnSObEfZxZlU4aQ86TgTRWt2D6n7BdhAu2kZ0c2eoYQ&oe=68446AE0"
                   alt="Vũ Phan Hoài Sang"
                   className="w-full h-full object-cover"
                 />
