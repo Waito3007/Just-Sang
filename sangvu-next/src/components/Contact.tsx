@@ -80,7 +80,7 @@ const Contact = () => {
     {
       icon: <GitHub />,
       name: "GitHub",
-      url: "https://github.com/sangvu",
+      url: "https://github.com/Waito3007",
       color: "hover:text-gray-800 dark:hover:text-gray-300"
     },
     {

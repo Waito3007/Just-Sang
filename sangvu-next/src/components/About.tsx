@@ -67,7 +67,7 @@ const About = () => {
             <div className="relative">
               <div className="w-80 h-80 mx-auto rounded-full overflow-hidden shadow-2xl">
                 <img
-                  src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop&crop=face"
+                  src="https://scontent.fsgn5-15.fna.fbcdn.net/v/t39.30808-6/490225885_2205933069863157_8448360811899039589_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=46KBbvsJ018Q7kNvwF-bhp1&_nc_oc=AdkA6MdW9n3uHMSipk-DiEBAFq-3cFFoP1qOO0O3kHxM3O0ouD18B5Zt2NmAVsXoLt-J8aHMaICq4iA0vgRMJBF0&_nc_zt=23&_nc_ht=scontent.fsgn5-15.fna&_nc_gid=rbcDwPSdNFVLAIUcZ74ybg&oh=00_AfKwL8e7kmjTOza226mHm7c2b2vpMenMVPV6omD-ZD0ylQ&oe=684460B9"
                   alt="Vũ Phan Hoài Sang"
                   className="w-full h-full object-cover"
                 />
